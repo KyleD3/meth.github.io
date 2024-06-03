@@ -25,7 +25,7 @@ const pages = import.meta.globEager<Page>("./src/pages/*.tsx");
 
 // Log SHS GAMES!!
 console.log(" _______           _______    _______  _______  _______  _______  _______ \n(  ____ \\|\\     /|(  ____ \\  (  ____ \\(  ___  )(       )(  ____ \\(  ____ \\\n| (    \\/| )   ( || (    \\/  | (    \\/| (   ) || () () || (    \\/| (    \\/\n| (_____ | (___) || (_____   | |      | (___) || || || || (__    | (_____ \n(_____  )|  ___  |(_____  )  | | ____ |  ___  || |(_)| ||  __)   (_____  )\n      ) || (   ) |      ) |  | | \\_  )| (   ) || |   | || (            ) |\n/\\____) || )   ( |/\\____) |  | (___) || )   ( || )   ( || (____/\\/\\____) |\n\\_______)|/     \\|\\_______)  (_______)|/     \\||/     \\|(_______/\\_______)");
-console.log("%cJoin our cult at http://github.com/SHSGames/shsgames.github.io", "color: #1976d4");
+console.log("%cJoin our cult at https://github.com/KyleD3/meth.github.io/tree/master", "color: #1976d4");
 console.log("%cHi, Evan!", "font-style: italic");
 
 ReactDOM.render(
